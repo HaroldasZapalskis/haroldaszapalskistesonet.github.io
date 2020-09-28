@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/tesonet-deploy.github.io/static/css/main.dadc48f3.chunk.css",
-    "main.js": "/tesonet-deploy.github.io/static/js/main.19e7fadf.chunk.js",
-    "main.js.map": "/tesonet-deploy.github.io/static/js/main.19e7fadf.chunk.js.map",
-    "runtime-main.js": "/tesonet-deploy.github.io/static/js/runtime-main.03bc0f65.js",
-    "runtime-main.js.map": "/tesonet-deploy.github.io/static/js/runtime-main.03bc0f65.js.map",
-    "static/js/2.3c41ed46.chunk.js": "/tesonet-deploy.github.io/static/js/2.3c41ed46.chunk.js",
-    "static/js/2.3c41ed46.chunk.js.map": "/tesonet-deploy.github.io/static/js/2.3c41ed46.chunk.js.map",
-    "index.html": "/tesonet-deploy.github.io/index.html",
-    "precache-manifest.f7d968803469feea8e35e4e4864b42d0.js": "/tesonet-deploy.github.io/precache-manifest.f7d968803469feea8e35e4e4864b42d0.js",
-    "service-worker.js": "/tesonet-deploy.github.io/service-worker.js",
-    "static/css/main.dadc48f3.chunk.css.map": "/tesonet-deploy.github.io/static/css/main.dadc48f3.chunk.css.map",
-    "static/js/2.3c41ed46.chunk.js.LICENSE.txt": "/tesonet-deploy.github.io/static/js/2.3c41ed46.chunk.js.LICENSE.txt",
-    "static/media/sorting.97b147d8.svg": "/tesonet-deploy.github.io/static/media/sorting.97b147d8.svg"
+    "main.css": "/static/css/main.77f833ad.chunk.css",
+    "main.js": "/static/js/main.e8cda43c.chunk.js",
+    "main.js.map": "/static/js/main.e8cda43c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.48b7cd13.chunk.js": "/static/js/2.48b7cd13.chunk.js",
+    "static/js/2.48b7cd13.chunk.js.map": "/static/js/2.48b7cd13.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.884a5ffe9768e23ab25f3f215f9add68.js": "/precache-manifest.884a5ffe9768e23ab25f3f215f9add68.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.77f833ad.chunk.css.map": "/static/css/main.77f833ad.chunk.css.map",
+    "static/js/2.48b7cd13.chunk.js.LICENSE.txt": "/static/js/2.48b7cd13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.03bc0f65.js",
-    "static/js/2.3c41ed46.chunk.js",
-    "static/css/main.dadc48f3.chunk.css",
-    "static/js/main.19e7fadf.chunk.js"
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/2.48b7cd13.chunk.js",
+    "static/css/main.77f833ad.chunk.css",
+    "static/js/main.e8cda43c.chunk.js"
   ]
 }
